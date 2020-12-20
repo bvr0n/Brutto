@@ -31,7 +31,7 @@ The usage examples below show just the simplest tasks you can accomplish using B
 python3 brutto.py -u [URL] -p [PORT] -w [PATH-TO-WORDLIST]
 ```
 
-![Banner](Brutto/images/brutto.png)
+![Banner](./images/brutto.png)
 
 ### Usage :
 
